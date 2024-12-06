@@ -94,7 +94,7 @@ git:
     twigfeeds:
         url: https://github.com/OleVik/grav-plugin-twigfeeds
         path: user/plugins/twigfeeds
-        branch: 4.0.0
+        branch: v4.0.0
     twigpcre:
         url: https://github.com/kesslernetworks/grav-plugin-twigpcre
         path: user/plugins/twigpcre
